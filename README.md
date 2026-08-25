@@ -1,7 +1,5 @@
 # Bayesian Neural Networks for Image Classification
 
-MTH6161: Neural Networks and Deep Learning — Mini Project
-
 **Author:** Rayyan Hameed
 
 ## Overview
