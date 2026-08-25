@@ -2,7 +2,7 @@
 
 MTH6161: Neural Networks and Deep Learning — Mini Project
 
-**Author:** Mohammad Rayyan Hameed (231172804)
+**Author:** Rayyan Hameed
 
 ## Overview
 
